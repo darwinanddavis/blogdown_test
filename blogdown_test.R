@@ -31,6 +31,12 @@ file.create("netlify.toml")
 # 7. 
 # add public/ and .DS_Store to .gitignore
 
+# 8. push to github  
+
+# 9. link github to netlify
+# (on netlify) overview > domain settings > build and deploy > link site to git 
+
+# 10. deploy site
 
 
 # note
