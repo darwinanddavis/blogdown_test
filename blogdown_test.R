@@ -37,7 +37,7 @@ file.create("netlify.toml")
 # (on netlify) overview > domain settings > build and deploy > link site to git 
 
 # 10. deploy site
-
+hugo_version()
 
 # note
 # public folder get overwritten on build  
